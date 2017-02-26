@@ -1,7 +1,10 @@
 # ide_settings
 Where I store settings for my IDEs. (Gogland, Rubymine, PyCharm, IntelliJ, CLion)
 
-![](https://github.com/alistanis/ide_settings/Gogland.png)
-![](https://github.com/alistanis/ide_settings/Gogland2.png)
-![](https://github.com/alistanis/ide_settings/Rubymine.png)
-![](https://github.com/alistanis/ide_settings/Rubymine2.png)
+#Gogland
+![](https://github.com/alistanis/ide_settings/raw/master/Gogland.png)
+![](https://github.com/alistanis/ide_settings/raw/master/Gogland2.png)
+
+#Rubymine
+![](https://github.com/alistanis/ide_settings/raw/master/Rubymine.png)
+![](https://github.com/alistanis/ide_settings/raw/master/Rubymine2.png)
