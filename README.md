@@ -1,5 +1,9 @@
 # ide_settings
-Where I store settings for my IDEs. (Gogland, Rubymine, PyCharm, IntelliJ, CLion)
+Where I store settings for my IDEs.
+
+Currently: Gogland, Rubymine
+
+Soon: PyCharm, IntelliJ, CLion
 
 #Gogland
 ![](https://github.com/alistanis/ide_settings/raw/master/Gogland.png)
