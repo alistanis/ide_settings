@@ -11,6 +11,10 @@ Soon: PyCharm, IntelliJ, CLion
 ![](https://github.com/alistanis/ide_settings/raw/master/Gogland.png)
 ![](https://github.com/alistanis/ide_settings/raw/master/Gogland2.png)
 
+#CLion
+![](https://github.com/alistanis/ide_settings/raw/master/Clion.png)
+![](https://github.com/alistanis/ide_settings/raw/master/Clion2.png)
+
 #Rubymine
 ![](https://github.com/alistanis/ide_settings/raw/master/Rubymine.png)
 ![](https://github.com/alistanis/ide_settings/raw/master/Rubymine2.png)
