@@ -6,27 +6,27 @@ Whenever I do a presentation and show people my editor, I usually get positive c
 
 Currently: Gogland, CLion, Rubymine, PyCharm, IntelliJ
 
-#Gogland
+# Gogland
 
 ![](https://github.com/alistanis/ide_settings/raw/master/Gogland.png)
 ![](https://github.com/alistanis/ide_settings/raw/master/Gogland2.png)
 
-#CLion
+# CLion
 
 ![](https://github.com/alistanis/ide_settings/raw/master/Clion.png)
 ![](https://github.com/alistanis/ide_settings/raw/master/Clion2.png)
 
-#IntelliJ
+# IntelliJ
 
 ![](https://github.com/alistanis/ide_settings/raw/master/Intellij.png)
 ![](https://github.com/alistanis/ide_settings/raw/master/Intellij2.png)
 
-#Pycharm
+# Pycharm
 
 ![](https://github.com/alistanis/ide_settings/raw/master/Pycharm.png)
 ![](https://github.com/alistanis/ide_settings/raw/master/Pycharm2.png)
 
-#Rubymine
+# Rubymine
 
 ![](https://github.com/alistanis/ide_settings/raw/master/Rubymine.png)
 ![](https://github.com/alistanis/ide_settings/raw/master/Rubymine2.png)
