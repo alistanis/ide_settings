@@ -15,6 +15,14 @@ Soon: PyCharm, IntelliJ
 ![](https://github.com/alistanis/ide_settings/raw/master/Clion.png)
 ![](https://github.com/alistanis/ide_settings/raw/master/Clion2.png)
 
+#IntelliJ
+![](https://github.com/alistanis/ide_settings/raw/master/Intellij.png)
+![](https://github.com/alistanis/ide_settings/raw/master/Intellij2.png)
+
+#Pycharm
+![](https://github.com/alistanis/ide_settings/raw/master/Pycharm.png)
+![](https://github.com/alistanis/ide_settings/raw/master/Pycharm2.png)
+
 #Rubymine
 ![](https://github.com/alistanis/ide_settings/raw/master/Rubymine.png)
 ![](https://github.com/alistanis/ide_settings/raw/master/Rubymine2.png)
