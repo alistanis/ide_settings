@@ -4,9 +4,9 @@ Where I store settings for my IDEs.
 
 Whenever I do a presentation and show people my editor, I usually get positive comments about it, so I've decided to make my settings public. Hopefully someone likes them!
 
-Currently: Gogland, CLion, Rubymine, PyCharm, IntelliJ
+Currently: [GoLand](https://www.jetbrains.com/go/), [CLion](https://www.jetbrains.com/clion), [Rubymine](https://www.jetbrains.com/ruby), [PyCharm](https://www.jetbrains.com/pycharm), [IntelliJ](https://www.jetbrains.com/idea)
 
-# Gogland
+# GoLand
 
 ![](https://github.com/alistanis/ide_settings/raw/master/Gogland.png)
 ![](https://github.com/alistanis/ide_settings/raw/master/Gogland2.png)
